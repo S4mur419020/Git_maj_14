@@ -1,2 +1,7 @@
 # Git_maj_14
-command/control + b
+#Nagy cím
+
+>behúzás
+
+Vízszintes vonal
+***
